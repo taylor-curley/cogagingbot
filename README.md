@@ -1,3 +1,5 @@
+![](https://github.com/tmc2737/cogagingbot/blob/master/cogaging.png)
+
 # @cogagingbot (Twitter)
 
 This bot scrapes different websites for new releases in journal articles related to Cognitive Aging. Currently, we are scraping all content from:
