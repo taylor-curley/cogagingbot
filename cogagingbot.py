@@ -5,7 +5,7 @@ from twython import Twython
 from pyshorteners import Shortener
 import datetime
 from secret_cab import c_key, cs_key, a_token, as_token, google_api
-from scrape_cab import ejournal, etitle, eurl, sjournal, stitle, surl, fjournal, ftitle, furl
+from scrape_cab import ejournal, etitle, eurl, sjournal, stitle, surl, fjournal, ftitle, furl, tjournal, ttitle, turl
 
 time = datetime.datetime.now()
 
@@ -13,9 +13,9 @@ api = Twython(c_key, cs_key, a_token, as_token)
 api_key = google_api
 shortener = Shortener('Google', api_key=api_key)
 
-title = etitle + stitle + ftitle
-journal = ejournal + sjournal + fjournal
-url = eurl + surl + furl
+title = etitle + stitle + ftitle + ttitle
+journal = ejournal + sjournal + fjournal + tjournal
+url = eurl + surl + furl + turl
 
 x = 0
 for i in title:
