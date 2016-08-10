@@ -32,6 +32,7 @@ Additionally, we are mining aging-related articles from:
 - Trends in Cognitive Sciences
 - Visual Cognition
 
+
 The cogagingbot is the first iteration of a series of Twitterbots dedicated to mining journal websites and is directly related to @cogpsybot and @quantpsybot.
 
 Follow us on Twitter (@cogagingbot)!
