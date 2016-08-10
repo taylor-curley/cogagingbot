@@ -37,5 +37,5 @@ Additionally, we are mining aging-related articles from:
 
 The cogagingbot is the first iteration of a series of Twitterbots dedicated to mining journal websites and is directly related to @cogpsybot and @quantpsybot.
 
-Follow us on Twitter (@cogagingbot)!
+Follow us on Twitter ([@cogagingbot](http://www.twitter.com/cogagingbot))!
  
